@@ -7,7 +7,7 @@ Luke(Yeongseung An)
 
 Jeongmin Lee
 
-Eunsoo Kang
+Eunsu Kang
 
 Seungyeon Cho
 
